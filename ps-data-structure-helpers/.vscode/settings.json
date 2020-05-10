@@ -1,0 +1,18 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+        
+    },
+
+
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "window.zoomLevel": 0,
+
+    "java.home": "C:\\Java\\jdk-11.0.7",
+    "java.configuration.checkProjectSettingsExclusions": false
+
+    
+}
